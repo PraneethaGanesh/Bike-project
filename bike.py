@@ -16,7 +16,7 @@ class Bike:
             return False
 
         ride_effects = {
-            "city": (10, 5, 10),  # (performance, brake condition, fuel)
+            "city": (10, 5, 20),  # (performance, brake condition, fuel)
             "highway": (20, 10, 20),
             "offroad": (30, 15, 30)
         }
